@@ -1,4 +1,4 @@
-Main.class
-Tutoria.class
-TutoriaDAO.class
-Database.class
+demo\tutorias\Database.class
+demo\tutorias\Tutoria.class
+demo\tutorias\Main.class
+demo\tutorias\TutoriaDAO.class
